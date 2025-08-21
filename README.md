@@ -40,7 +40,7 @@ Principal Engineer with 11+ years of experience in backend development across Fi
 •	Provided L3 support, documentation, and deployment assistance, ensuring minimal downtime and quick issue resolution.  
  
 ## CERTIFICATIONS   
-AI For Everyone (DEEP LEARNING - Coursera)                                                                                                        [July 18, 2019] 
+AI For Everyone (DEEP LEARNING - Coursera)                                                                                                        [July 18, 2019]  
 Machine Learning (STANFORD|ONLINE - Coursera)                                                                                                     [July 12, 2019]  
 
 ## TECHNICAL SKILLS   
